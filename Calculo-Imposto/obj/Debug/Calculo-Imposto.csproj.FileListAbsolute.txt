@@ -1,0 +1,5 @@
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Calculo-Imposto\Calculo-Imposto\bin\Debug\Calculo-Imposto.exe.config
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Calculo-Imposto\Calculo-Imposto\bin\Debug\Calculo-Imposto.exe
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Calculo-Imposto\Calculo-Imposto\bin\Debug\Calculo-Imposto.pdb
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Calculo-Imposto\Calculo-Imposto\obj\Debug\Calculo-Imposto.exe
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Calculo-Imposto\Calculo-Imposto\obj\Debug\Calculo-Imposto.pdb
