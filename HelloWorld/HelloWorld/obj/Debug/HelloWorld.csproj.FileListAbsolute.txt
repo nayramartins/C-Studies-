@@ -1,0 +1,6 @@
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,6 @@
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Decisions\Decisions\obj\Debug\Decisions.pdb
