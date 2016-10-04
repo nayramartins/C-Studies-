@@ -1,0 +1,6 @@
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\nayra.OPUS\Desktop\Estudos\02-CSharp\Variables\Variables\obj\Debug\Variables.pdb
